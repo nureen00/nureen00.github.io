@@ -6,7 +6,7 @@
    5. dialog = /
    -->
    
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>My Mobile Page</title>
